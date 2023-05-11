@@ -17,11 +17,15 @@ para análise;
 2. Fique a vontade para utilizar qualquer banco de dados.
 3. Construir uma Dashboard com os dados tratados em sua ferramenta de BI de
 preferência.
+
 Entrega:
+
 1. Subir os códigos de ETL e infra e prints do painel em um repositório no Github.
 2. Na apresentação do desafio, mostrar o painel desenvolvido e detalhar as análises
 mais relevantes feitas.
+
 O que iremos avaliar:
+
 1. Entendimento do conceito de ETL e a qualidade do que foi desenvolvido;
 2. Qualidade do painel desenvolvido e do entendimento da base de dados;
 3. Comunicação/oratória durante a apresentação;
