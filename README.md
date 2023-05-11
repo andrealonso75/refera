@@ -3,12 +3,14 @@
 Objetivo: Apresentar um painel de BI e uma análise detalhada dos pontos mais relevantes
 de um negócio de locação de filmes. Lembre-se que o seu objetivo é aumentar a eficiência
 do negócio, maximizar receita, clientes e/ou minimizar custos.
+
 Os dados podem ser baixados em:
 1. CSV: Link
 2. .tar: Link
+
 Modelo de dados:
-https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database
-/
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+
 Requisitos:
 1. Uso de DBT para a ETL dos dados, tratando e remodelando como star schema
 para análise;
@@ -24,5 +26,6 @@ O que iremos avaliar:
 2. Qualidade do painel desenvolvido e do entendimento da base de dados;
 3. Comunicação/oratória durante a apresentação;
 4. Qualidade das análises e das descobertas realizadas.
+
 Diferencial:
 Usamos na Refera o Style Guide do DBT.
